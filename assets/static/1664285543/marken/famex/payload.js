@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/famex", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/famex-werkzeugkoffer-universal-744-48-inkl-steckschluesselsatz-159-tlg-famex-3328200-1.jpg":"\u002Fassets\u002Fimages\u002Ffamex-werkzeugkoffer-universal-744-48-inkl-steckschluesselsatz-159-tlg-famex-3328200-1.webp"}}],fetch:{},mutations:void 0});

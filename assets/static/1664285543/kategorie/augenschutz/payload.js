@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/kategorie/augenschutz", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/schutzbrille-mit-buegeln-sonstige-8035404-1.jpg":"\u002Fassets\u002Fimages\u002Fschutzbrille-mit-buegeln-sonstige-8035404-1.webp"}}],fetch:{},mutations:void 0});

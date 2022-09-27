@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/kategorie/knieschutz", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/lux-knieschoner-mit-gelenk-lux-tools-5418348-1.jpg":"\u002Fassets\u002Fimages\u002Flux-knieschoner-mit-gelenk-lux-tools-5418348-1.webp"}}],fetch:{},mutations:void 0});
