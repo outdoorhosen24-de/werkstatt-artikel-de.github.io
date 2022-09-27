@@ -1,107 +1,114 @@
 [
     {
-        "key": "insektenschutz",
-        "name": "Insektenschutz",
-        "slug": "insektenschutz",
-        "productCategory": "Insektenschutz",
+        "key": "arbeitskleidung & arbeitssicherheit",
+        "name": "Arbeitskleidung & Arbeitssicherheit",
+        "slug": "arbeitskleidung-arbeitssicherheit",
+        "productCategory": "Arbeitskleidung & Arbeitssicherheit",
         "subCategories": []
     },
     {
-        "key": "fliegengittertüren",
-        "name": "Fliegengittertüren",
-        "slug": "fliegengitterturen",
-        "productCategory": "Fliegengittertüren",
+        "key": "augenschutz",
+        "name": "Augenschutz",
+        "slug": "augenschutz",
+        "productCategory": "Augenschutz",
         "subCategories": []
     },
     {
-        "key": "plissees",
-        "name": "Plissees",
-        "slug": "plissees",
-        "productCategory": "Plissees",
+        "key": "werkzeugkoffer",
+        "name": "Werkzeugkoffer",
+        "slug": "werkzeugkoffer",
+        "productCategory": "Werkzeugkoffer",
         "subCategories": []
     },
     {
-        "key": "insektenschutzrahmen",
-        "name": "Insektenschutzrahmen",
-        "slug": "insektenschutzrahmen",
-        "productCategory": "Insektenschutzrahmen",
+        "key": "werkstatteinrichtung",
+        "name": "Werkstatteinrichtung",
+        "slug": "werkstatteinrichtung",
+        "productCategory": "Werkstatteinrichtung",
         "subCategories": []
     },
     {
-        "key": "stil- & seilspanngarnituren",
-        "name": "Stil- & Seilspanngarnituren",
-        "slug": "stil-seilspanngarnituren",
-        "productCategory": "Stil- & Seilspanngarnituren",
+        "key": "werkzeugschränke",
+        "name": "Werkzeugschränke",
+        "slug": "werkzeugschranke",
+        "productCategory": "Werkzeugschränke",
         "subCategories": []
     },
     {
-        "key": "lamellenvorhänge",
-        "name": "Lamellenvorhänge",
-        "slug": "lamellenvorhange",
-        "productCategory": "Lamellenvorhänge",
+        "key": "arbeitskleidung & zubehör",
+        "name": "Arbeitskleidung & Zubehör",
+        "slug": "arbeitskleidung-zubehor",
+        "productCategory": "Arbeitskleidung & Zubehör",
         "subCategories": []
     },
     {
-        "key": "rollos & raffrollos",
-        "name": "Rollos & Raffrollos",
-        "slug": "rollos-raffrollos",
-        "productCategory": "Rollos & Raffrollos",
+        "key": "aufbewahrung & haken",
+        "name": "Aufbewahrung & Haken",
+        "slug": "aufbewahrung-haken",
+        "productCategory": "Aufbewahrung & Haken",
         "subCategories": []
     },
     {
-        "key": "jalousien",
-        "name": "Jalousien",
-        "slug": "jalousien",
-        "productCategory": "Jalousien",
+        "key": "aufbewahrungssysteme",
+        "name": "Aufbewahrungssysteme",
+        "slug": "aufbewahrungssysteme",
+        "productCategory": "Aufbewahrungssysteme",
         "subCategories": []
     },
     {
-        "key": "gardinenschienen",
-        "name": "Gardinenschienen",
-        "slug": "gardinenschienen",
-        "productCategory": "Gardinenschienen",
+        "key": "werkbänke",
+        "name": "Werkbänke",
+        "slug": "werkbanke",
+        "productCategory": "Werkbänke",
         "subCategories": []
     },
     {
-        "key": "fenstervorhänge",
-        "name": "Fenstervorhänge",
-        "slug": "fenstervorhange",
-        "productCategory": "Fenstervorhänge",
+        "key": "knieschutz",
+        "name": "Knieschutz",
+        "slug": "knieschutz",
+        "productCategory": "Knieschutz",
         "subCategories": []
     },
     {
-        "key": "vitragestangen",
-        "name": "Vitragestangen",
-        "slug": "vitragestangen",
-        "productCategory": "Vitragestangen",
+        "key": "arbeitsschuhe & zubehör",
+        "name": "Arbeitsschuhe & Zubehör",
+        "slug": "arbeitsschuhe-zubehor",
+        "productCategory": "Arbeitsschuhe & Zubehör",
         "subCategories": []
     },
     {
-        "key": "insektenschutzzubehör",
-        "name": "Insektenschutzzubehör",
-        "slug": "insektenschutzzubehor",
-        "productCategory": "Insektenschutzzubehör",
+        "key": "arbeitsböcke",
+        "name": "Arbeitsböcke",
+        "slug": "arbeitsbocke",
+        "productCategory": "Arbeitsböcke",
         "subCategories": []
     },
     {
-        "key": "türdichtungen & fensterdichtungen",
-        "name": "Türdichtungen & Fensterdichtungen",
-        "slug": "turdichtungen-fensterdichtungen",
-        "productCategory": "Türdichtungen & Fensterdichtungen",
+        "key": "lochwandsysteme",
+        "name": "Lochwandsysteme",
+        "slug": "lochwandsysteme",
+        "productCategory": "Lochwandsysteme",
         "subCategories": []
     },
     {
-        "key": "fliegengitterfenster",
-        "name": "Fliegengitterfenster",
-        "slug": "fliegengitterfenster",
-        "productCategory": "Fliegengitterfenster",
+        "key": "gehörschutz",
+        "name": "Gehörschutz",
+        "slug": "gehorschutz",
+        "productCategory": "Gehörschutz",
         "subCategories": []
     },
     {
-        "key": "insektenschutznetze",
-        "name": "Insektenschutznetze",
-        "slug": "insektenschutznetze",
-        "productCategory": "Insektenschutznetze",
+        "key": "werkstattwagen",
+        "name": "Werkstattwagen",
+        "slug": "werkstattwagen",
+        "productCategory": "Werkstattwagen",
+        "subCategories": []
+    },
+    {
+        "key": "arbeitshandschuhe",
+        "name": "Arbeitshandschuhe",
+        "slug": "arbeitshandschuhe",
+        "productCategory": "Arbeitshandschuhe",
         "subCategories": []
     }
 ]
