@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kategorie/gehorschutz", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/lux-kapselgehoerschutz-schwarz-snr-26-db-lux-tools-3470341-1.jpg":"\u002Fassets\u002Fimages\u002Flux-kapselgehoerschutz-schwarz-snr-26-db-lux-tools-3470341-1.webp"}}],fetch:{},mutations:void 0});

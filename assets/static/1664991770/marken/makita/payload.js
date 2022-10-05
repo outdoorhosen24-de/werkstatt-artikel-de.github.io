@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/makita", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/makita-werkzeug-set-221-teilig-e-10883-makita-8340440-1.jpg":"\u002Fassets\u002Fimages\u002Fmakita-werkzeug-set-221-teilig-e-10883-makita-8340440-1.webp"}}],fetch:{},mutations:void 0});

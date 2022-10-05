@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/bwo", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/werk-und-spanntisch-bwo-3421427-1.jpg":"\u002Fassets\u002Fimages\u002Fwerk-und-spanntisch-bwo-3421427-1.webp"}}],fetch:{},mutations:void 0});
