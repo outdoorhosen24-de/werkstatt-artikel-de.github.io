@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
-    "domain": "wassersport24.net",
-    "hostname": "https://wassersport24.net/",
-    "email": "wassersport24.net@surrealnetworks.io",
-    "organization": "wassersport24.net",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
+    "configIsReady": true,
+    "domain": "werkstatt-artikel.de",
+    "hostname": "https://www.werkstatt-artikel.de/",
+    "email": "werkstatt-artikel.desurrealnetworks.io",
+    "organization": "werkstatt-artikel.de",
+    "logoText": "Werkstatt-artikel.de",
+    "title": "Werkstatt",
+    "subline": "Der Online Shop f\u00fcr Werkstatt",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -14,9 +14,27 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
+    "popularProducts": [
+        "5818497",
+        "5907860",
+        "4651345",
+        "8959355",
+        "3204211",
+        "5907795"
+    ],
+    "winnerProducts": [
+        "5907860",
+        "5907860",
+        "4279048"
+    ],
+    "featuredCategories": [
+        "Lochwandsysteme",
+        "Werkstatteinrichtung",
+        "Aufbewahrung & Haken",
+        "Werkzeugkoffer",
+        "Lochwandsysteme",
+        "Aufbewahrung & Haken"
+    ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
     "checklist": [
@@ -28,37 +46,33 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Werkstatt",
-        "featureText": "Your featured text goes here",
+        "featureText": "Die Werkstatt ist ein Laden, der alles f\u00fcr die Arbeit an Autos und Motorr\u00e4dern verkauft. Sie haben Werkzeuge, Ersatzteile und vieles mehr. Die Mitarbeiter sind sehr kompetent und k\u00f6nnen Ihnen bei allen Fragen weiterhelfen.",
         "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex",
+            "title": "Werkstatt: Die beste Werkstatt in der Stadt!",
+            "metaDescription": "Werkstatt ist ein deutscher Online-Shop, der auf hochwertige Werkzeuge und Ausr\u00fcstung f\u00fcr die Automobilbranche spezialisiert ist.",
+            "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
+                    "title": "Werkstatt: Die beste Ort zum Lernen und Arbeiten",
+                    "text": "Eine Werkstatt ist ein Ort, an dem man sich mit seinen H\u00e4nden und seinem Kopf besch\u00e4ftigt. Man kann dort Dinge reparieren, bauen oder erfinden.\n\nEine Werkstatt ist ein Ort der Kreativit\u00e4t und der Produktivit\u00e4t. Man kann dort seine Ideen verwirklichen und etwas Sinnvolles schaffen.\n\nEine Werkstatt ist auch ein Ort der Zusammenarbeit. Man kann dort mit anderen Menschen zusammenarbeiten und sich gegenseitig helfen.\n\nEine Werkstatt ist ein Ort der Begegnung. Man kann dort neue Menschen kennenlernen und interessante Gespr\u00e4che f\u00fchren.\n\nEine Werkstatt ist ein Ort der Freude. Man kann dort seine Leidenschaft ausleben und etwas Sch\u00f6nes erschaffen."
                 }
             ]
         },
         "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Werkstatt-Shop: Alles f\u00fcr Ihre Werkstatt!",
+            "metaDescription": "Werkstatt ist ein Online-Shop, der alles f\u00fcr die Arbeit anbietet. Vom Werkzeug \u00fcber die Kleidung bis hin zu den Schuhen.",
+            "robots": "index, follow"
         },
         "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Werkstatt: German manufacturer of high quality tools.",
+            "metaDescription": "Werkstatt ist ein deutscher Hersteller von hochwertigen Werkzeugen und Ger\u00e4ten f\u00fcr die Industrie und den Handwerker.",
+            "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "$PRODUKT in der Werkstatt: Reparatur, Wartung und Pflege",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die perfekte L\u00f6sung f\u00fcr Ihre $KATEGORIE. Schnell und einfach zu installieren.",
+        "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
@@ -72,9 +86,9 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "Werkstatt: $KATEGORIE",
+        "defaultMetaDescription": "$KATEGORIE Werkstatt - Alles f\u00fcr die Reparatur, Wartung und Pflege Ihres Fahrzeugs. Original Ersatzteile und Zubeh\u00f6r f\u00fcr alle g\u00e4ngigen Marken.",
+        "defaultRobots": "index, follow",
         "categories": [
             {
                 "key": "sporthosen",
@@ -100,8 +114,8 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultMetaDescription": "$HERSTELLER ist eine Marke f\u00fcr Werkstattbedarf. Hier findest du alles, was du f\u00fcr deine Werkstatt brauchst - von Werkzeugen \u00fcber Ersatzteile bis hin zu Bekleidung.",
+        "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
@@ -118,26 +132,30 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Wassersport",
+            "linkTitle": "Werkstatt",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
+            "linkTitle": "Werkstatt Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
+            "linkTitle": "Werkstatt Marken",
             "publish": true
         },
         {
             "title": "Kontakt",
             "linkTo": "/kontakt/",
-            "linkTitle": "Wassersport Kontakt",
+            "linkTitle": "Kontakt",
             "publish": false
         }
-    ]
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
+    }
 }
