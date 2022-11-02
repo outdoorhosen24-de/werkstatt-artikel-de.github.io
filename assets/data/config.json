@@ -1,12 +1,12 @@
 {
-    "configIsReady": true,
+    "configIsReady": false,
     "domain": "werkstatt-artikel.de",
     "hostname": "https://www.werkstatt-artikel.de/",
     "email": "werkstatt-artikel.desurrealnetworks.io",
     "organization": "werkstatt-artikel.de",
     "logoText": "Werkstatt-artikel.de",
     "title": "Werkstatt",
-    "subline": "Der Online Shop f\u00fcr Werkstatt",
+    "subline": "Der Online Shop für Werkstatt",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -46,40 +46,40 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Werkstatt",
-        "featureText": "Die Werkstatt ist ein Laden, der alles f\u00fcr die Arbeit an Autos und Motorr\u00e4dern verkauft. Sie haben Werkzeuge, Ersatzteile und vieles mehr. Die Mitarbeiter sind sehr kompetent und k\u00f6nnen Ihnen bei allen Fragen weiterhelfen.",
+        "featureText": "Die Werkstatt ist ein Laden, der alles für die Arbeit an Autos und Motorrädern verkauft. Sie haben Werkzeuge, Ersatzteile und vieles mehr. Die Mitarbeiter sind sehr kompetent und können Ihnen bei allen Fragen weiterhelfen.",
         "index": {
             "title": "Werkstatt: Die beste Werkstatt in der Stadt!",
-            "metaDescription": "Werkstatt ist ein deutscher Online-Shop, der auf hochwertige Werkzeuge und Ausr\u00fcstung f\u00fcr die Automobilbranche spezialisiert ist.",
+            "metaDescription": "Werkstatt ist ein deutscher Online-Shop, der auf hochwertige Werkzeuge und Ausrüstung für die Automobilbranche spezialisiert ist.",
             "robots": "index, follow",
             "texts": [
                 {
                     "title": "Werkstatt: Die beste Ort zum Lernen und Arbeiten",
-                    "text": "Eine Werkstatt ist ein Ort, an dem man sich mit seinen H\u00e4nden und seinem Kopf besch\u00e4ftigt. Man kann dort Dinge reparieren, bauen oder erfinden.\n\nEine Werkstatt ist ein Ort der Kreativit\u00e4t und der Produktivit\u00e4t. Man kann dort seine Ideen verwirklichen und etwas Sinnvolles schaffen.\n\nEine Werkstatt ist auch ein Ort der Zusammenarbeit. Man kann dort mit anderen Menschen zusammenarbeiten und sich gegenseitig helfen.\n\nEine Werkstatt ist ein Ort der Begegnung. Man kann dort neue Menschen kennenlernen und interessante Gespr\u00e4che f\u00fchren.\n\nEine Werkstatt ist ein Ort der Freude. Man kann dort seine Leidenschaft ausleben und etwas Sch\u00f6nes erschaffen."
+                    "text": "Eine Werkstatt ist ein Ort, an dem man sich mit seinen Händen und seinem Kopf beschäftigt. Man kann dort Dinge reparieren, bauen oder erfinden.\n\nEine Werkstatt ist ein Ort der Kreativität und der Produktivität. Man kann dort seine Ideen verwirklichen und etwas Sinnvolles schaffen.\n\nEine Werkstatt ist auch ein Ort der Zusammenarbeit. Man kann dort mit anderen Menschen zusammenarbeiten und sich gegenseitig helfen.\n\nEine Werkstatt ist ein Ort der Begegnung. Man kann dort neue Menschen kennenlernen und interessante Gespräche führen.\n\nEine Werkstatt ist ein Ort der Freude. Man kann dort seine Leidenschaft ausleben und etwas Schönes erschaffen."
                 }
             ]
         },
         "shop": {
-            "title": "Werkstatt-Shop: Alles f\u00fcr Ihre Werkstatt!",
-            "metaDescription": "Werkstatt ist ein Online-Shop, der alles f\u00fcr die Arbeit anbietet. Vom Werkzeug \u00fcber die Kleidung bis hin zu den Schuhen.",
+            "title": "Werkstatt-Shop: Alles für Ihre Werkstatt!",
+            "metaDescription": "Werkstatt ist ein Online-Shop, der alles für die Arbeit anbietet. Vom Werkzeug über die Kleidung bis hin zu den Schuhen.",
             "robots": "index, follow"
         },
         "hersteller": {
             "title": "Werkstatt: German manufacturer of high quality tools.",
-            "metaDescription": "Werkstatt ist ein deutscher Hersteller von hochwertigen Werkzeugen und Ger\u00e4ten f\u00fcr die Industrie und den Handwerker.",
+            "metaDescription": "Werkstatt ist ein deutscher Hersteller von hochwertigen Werkzeugen und Geräten für die Industrie und den Handwerker.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
         "defaultTitle": "$PRODUKT in der Werkstatt: Reparatur, Wartung und Pflege",
-        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die perfekte L\u00f6sung f\u00fcr Ihre $KATEGORIE. Schnell und einfach zu installieren.",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die perfekte Lösung für Ihre $KATEGORIE. Schnell und einfach zu installieren.",
         "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
                 "name": "Ortovox PALA PANTS Kletterhose",
                 "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
                     "robots": "index, follow"
                 }
             }
@@ -87,7 +87,7 @@
     },
     "categorySeo": {
         "defaultTitle": "Werkstatt: $KATEGORIE",
-        "defaultMetaDescription": "$KATEGORIE Werkstatt - Alles f\u00fcr die Reparatur, Wartung und Pflege Ihres Fahrzeugs. Original Ersatzteile und Zubeh\u00f6r f\u00fcr alle g\u00e4ngigen Marken.",
+        "defaultMetaDescription": "$KATEGORIE Werkstatt - Alles für die Reparatur, Wartung und Pflege Ihres Fahrzeugs. Original Ersatzteile und Zubehör für alle gängigen Marken.",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -95,8 +95,8 @@
                 "slug": "sporthosen",
                 "name": "Sporthosen",
                 "seo": {
-                    "title": "Sporthosen g\u00fcnstig kaufen",
-                    "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
                     "robots": "index, follow",
                     "texts": [
                         {
@@ -114,15 +114,15 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "$HERSTELLER ist eine Marke f\u00fcr Werkstattbedarf. Hier findest du alles, was du f\u00fcr deine Werkstatt brauchst - von Werkzeugen \u00fcber Ersatzteile bis hin zu Bekleidung.",
+        "defaultMetaDescription": "$HERSTELLER ist eine Marke für Werkstattbedarf. Hier findest du alles, was du für deine Werkstatt brauchst - von Werkzeugen über Ersatzteile bis hin zu Bekleidung.",
         "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
                 "name": "Palm",
                 "seo": {
-                    "title": "Produkte von Palm g\u00fcnstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
                     "robots": "index, follow"
                 }
             }
