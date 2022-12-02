@@ -51,12 +51,15 @@
             "title": "Werkstatt: Die beste Werkstatt in der Stadt!",
             "metaDescription": "Werkstatt ist ein deutscher Online-Shop, der auf hochwertige Werkzeuge und Ausrüstung für die Automobilbranche spezialisiert ist.",
             "robots": "index, follow",
-            "texts": [
-                {
-                    "title": "Werkstatt: Die beste Ort zum Lernen und Arbeiten",
-                    "text": "Eine Werkstatt ist ein Ort, an dem man sich mit seinen Händen und seinem Kopf beschäftigt. Man kann dort Dinge reparieren, bauen oder erfinden.\n\nEine Werkstatt ist ein Ort der Kreativität und der Produktivität. Man kann dort seine Ideen verwirklichen und etwas Sinnvolles schaffen.\n\nEine Werkstatt ist auch ein Ort der Zusammenarbeit. Man kann dort mit anderen Menschen zusammenarbeiten und sich gegenseitig helfen.\n\nEine Werkstatt ist ein Ort der Begegnung. Man kann dort neue Menschen kennenlernen und interessante Gespräche führen.\n\nEine Werkstatt ist ein Ort der Freude. Man kann dort seine Leidenschaft ausleben und etwas Schönes erschaffen."
-                }
-            ]
+            "seotext": {
+                "published": false,
+                "content": [
+                    {
+                        "title": "Werkstatt: Die beste Ort zum Lernen und Arbeiten",
+                        "text": "Eine Werkstatt ist ein Ort, an dem man sich mit seinen Händen und seinem Kopf beschäftigt. Man kann dort Dinge reparieren, bauen oder erfinden.\n\nEine Werkstatt ist ein Ort der Kreativität und der Produktivität. Man kann dort seine Ideen verwirklichen und etwas Sinnvolles schaffen.\n\nEine Werkstatt ist auch ein Ort der Zusammenarbeit. Man kann dort mit anderen Menschen zusammenarbeiten und sich gegenseitig helfen.\n\nEine Werkstatt ist ein Ort der Begegnung. Man kann dort neue Menschen kennenlernen und interessante Gespräche führen.\n\nEine Werkstatt ist ein Ort der Freude. Man kann dort seine Leidenschaft ausleben und etwas Schönes erschaffen."
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Werkstatt-Shop: Alles für Ihre Werkstatt!",
