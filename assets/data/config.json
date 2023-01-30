@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "werkstatt-artikel.de",
     "hostname": "https://www.werkstatt-artikel.de/",
     "email": "werkstatt-artikel.de@surrealnetworks.io",
     "organization": "werkstatt-artikel.de",
     "logoText": "Werkstatt-artikel.de",
-    "title": "Werkstatt",
-    "subline": "Der Online Shop für Werkstatt",
+    "title": "Werkstatt Shop",
+    "subline": "Hier finden Sie alles was eine gute Werkstatt ausmacht!",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -46,10 +46,10 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Werkstatt",
-        "featureText": "Die Werkstatt ist ein Laden, der alles für die Arbeit an Autos und Motorrädern verkauft. Sie haben Werkzeuge, Ersatzteile und vieles mehr. Die Mitarbeiter sind sehr kompetent und können Ihnen bei allen Fragen weiterhelfen.",
+        "featureText": "Willkommen in unserem Shop! Sie möchten sich Ihre eigene Werkstatt einrichten oder auch nur einen umfangreichen Werkzeugkoffer zusammenstellen? Dann sind Sie hier genau richtig! Wir bieten Ihnen ein breites Angebot an Werkstatt-Artikeln. Diese reichen von Arbeitsschutzkleidung über Werkzeugkoffer, Werkzeugschränke, Werkbänke bis hin zu Aufbewahrungssysteme und Lochwandsysteme. Unsere angebotenen Produkte sind von Marken wie Black & Decker, Bosch Professional, Makita und Co. \nWir arbeiten stets daran, Ihnen Tiefstpreise anzubieten, die anderswo kaum zu unterbieten sind.  Überzeugen Sie sich von unserem Angebot.\n",
         "index": {
-            "title": "Werkstatt: Die beste Werkstatt in der Stadt!",
-            "metaDescription": "Werkstatt ist ein deutscher Online-Shop, der auf hochwertige Werkzeuge und Ausrüstung für die Automobilbranche spezialisiert ist.",
+            "title": "Werkstatt Laden - Alles was du benötigst",
+            "metaDescription": "Sie möchten ein Upgrade für die eigene Werkstatt? Projekte in Zukunft effizienter gestalten | Werkzeugkoffer, Werkzeugschrank oder Werkzeugbank, wir haben es.",
             "robots": "index, follow",
             "seotext": {
                 "published": false,
@@ -62,19 +62,19 @@
             }
         },
         "shop": {
-            "title": "Werkstatt-Shop: Alles für Ihre Werkstatt!",
-            "metaDescription": "Werkstatt ist ein Online-Shop, der alles für die Arbeit anbietet. Vom Werkzeug über die Kleidung bis hin zu den Schuhen.",
+            "title": "Der Werkstatt - Shop ",
+            "metaDescription": "Bestellen Sie Arbeitsschutzkleidung und Organisationssysteme in verschiedenen Ausführungen für die Werkstatt einfach online! | Riesige Auswahl | Günstige Preise",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Werkstatt: German manufacturer of high quality tools.",
-            "metaDescription": "Werkstatt ist ein deutscher Hersteller von hochwertigen Werkzeugen und Geräten für die Industrie und den Handwerker.",
+            "title": "Werkstatt - tolle Produkte von Top Herstellern",
+            "metaDescription": "Bei uns finden Sie eine Auflistung von Herstellern all unserer angebotenen Produkte. | Darunter Marken wie Makita, Bosch Professional, Black & Decker und mehr.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "$PRODUKT in der Werkstatt: Reparatur, Wartung und Pflege",
-        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die perfekte Lösung für Ihre $KATEGORIE. Schnell und einfach zu installieren.",
+        "defaultTitle": "$PRODUKT günstig bestellen",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die richtige Wahl beim Thema $KATEGORIE. | Finden Sie weitere tolle Produkte von Herstellern wie $HERSTELLER.",
         "defaultRobots": "index, follow",
         "products": [
             {
@@ -89,8 +89,8 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "Werkstatt: $KATEGORIE",
-        "defaultMetaDescription": "$KATEGORIE Werkstatt - Alles für die Reparatur, Wartung und Pflege Ihres Fahrzeugs. Original Ersatzteile und Zubehör für alle gängigen Marken.",
+        "defaultTitle": "$KATEGORIE - riesige Auswahl",
+        "defaultMetaDescription": "$KATEGORIE für die Werkstatt - Viele tolle Produkte zu günstigen Preisen | Bestellen Sie jetzt einfach und bequem von Zuhause! ",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -116,8 +116,8 @@
         ]
     },
     "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "$HERSTELLER ist eine Marke für Werkstattbedarf. Hier findest du alles, was du für deine Werkstatt brauchst - von Werkzeugen über Ersatzteile bis hin zu Bekleidung.",
+        "defaultTitle": "$HERSTELLER - Qualität zum Bestpreis",
+        "defaultMetaDescription": "$HERSTELLER ist ein namhafter Hersteller für Werkstatt-Produkte. Produkte von $HERSTELLER sind bekannt für eine qualitativ hochwertige Verarbeitung.  ",
         "defaultRobots": "index, follow",
         "brands": [
             {
