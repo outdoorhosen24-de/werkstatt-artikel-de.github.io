@@ -30,14 +30,14 @@
     {
         "key": "werkzeugschränke",
         "name": "Werkzeugschränke",
-        "slug": "werkzeugschranke",
+        "slug": "werkzeugschraenke",
         "productCategory": "Werkzeugschränke",
         "subCategories": []
     },
     {
         "key": "arbeitskleidung & zubehör",
         "name": "Arbeitskleidung & Zubehör",
-        "slug": "arbeitskleidung-zubehor",
+        "slug": "arbeitskleidung-zubehoer",
         "productCategory": "Arbeitskleidung & Zubehör",
         "subCategories": []
     },
@@ -58,7 +58,7 @@
     {
         "key": "werkbänke",
         "name": "Werkbänke",
-        "slug": "werkbanke",
+        "slug": "werkbaenke",
         "productCategory": "Werkbänke",
         "subCategories": []
     },
@@ -72,14 +72,14 @@
     {
         "key": "arbeitsschuhe & zubehör",
         "name": "Arbeitsschuhe & Zubehör",
-        "slug": "arbeitsschuhe-zubehor",
+        "slug": "arbeitsschuhe-zubehoer",
         "productCategory": "Arbeitsschuhe & Zubehör",
         "subCategories": []
     },
     {
         "key": "arbeitsböcke",
         "name": "Arbeitsböcke",
-        "slug": "arbeitsbocke",
+        "slug": "arbeitsboecke",
         "productCategory": "Arbeitsböcke",
         "subCategories": []
     },
@@ -93,7 +93,7 @@
     {
         "key": "gehörschutz",
         "name": "Gehörschutz",
-        "slug": "gehorschutz",
+        "slug": "gehoerschutz",
         "productCategory": "Gehörschutz",
         "subCategories": []
     },
