@@ -1,253 +1,260 @@
 {
-  "configIsReady": true,
-  "domain": "werkstatt-artikel.de",
-  "hostname": "https://www.werkstatt-artikel.de/",
-  "email": "werkstatt-artikel.de@surrealnetworks.io",
-  "organization": "werkstatt-artikel.de",
-  "logoText": "Werkstatt-artikel.de",
-  "title": "Werkstatt Shop",
-  "subline": "Hier finden Sie alles was eine gute Werkstatt ausmacht!",
-  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-  "imageFolder": "/assets/images/images/",
-  "productUrl": "/produkt/",
-  "kategorieUrl": "/kategorie/",
-  "numberOfProductsOnStartpage": 18,
-  "numberMaximumProductsPerCategory": 100,
-  "numberOfRelevantProduct": 12,
-  "popularProducts": [
-    "5818497",
-    "5907860",
-    "4651345",
-    "8959355",
-    "3204211",
-    "5907795"
-  ],
-  "winnerProducts": [
-    "5907860",
-    "5907860",
-    "4279048"
-  ],
-  "featuredCategories": [
-    "Lochwandsysteme",
-    "Werkstatteinrichtung",
-    "Aufbewahrung & Haken",
-    "Werkzeugkoffer",
-    "Lochwandsysteme",
-    "Aufbewahrung & Haken"
-  ],
-  "socialMediaAccounts": [],
-  "imageQuality": 90,
-  "checklist": [
-    "Material",
-    "Komfort",
-    "Funktion",
-    "Haltbarkeit"
-  ],
-  "seo": {
-    "htmlLang": "de",
-    "mainKeyword": "Werkstatt",
-    "featureText": "Willkommen in unserem Shop! Sie möchten sich Ihre eigene Werkstatt einrichten oder auch nur einen umfangreichen Werkzeugkoffer zusammenstellen? Dann sind Sie hier genau richtig! Wir bieten Ihnen ein breites Angebot an Werkstatt-Artikeln. Diese reichen von Arbeitsschutzkleidung über Werkzeugkoffer, Werkzeugschränke, Werkbänke bis hin zu Aufbewahrungssysteme und Lochwandsysteme. Unsere angebotenen Produkte sind von Marken wie Black & Decker, Bosch Professional, Makita und Co. \nWir arbeiten stets daran, Ihnen Tiefstpreise anzubieten, die anderswo kaum zu unterbieten sind.  Überzeugen Sie sich von unserem Angebot.\n",
-    "index": {
-      "title": "Werkstatt Laden - Alles was du benötigst",
-      "metaDescription": "Sie möchten ein Upgrade für die eigene Werkstatt? Projekte in Zukunft effizienter gestalten | Werkzeugkoffer, Werkzeugschrank oder Werkzeugbank, wir haben es.",
-      "robots": "index, follow",
-      "seotext": {
-        "published": true,
-        "content": [
-          {
-            "title": "Willkommen bei Werkstatt-Artikel.de",
-            "text": "Werkstatt-Artikel.de ist Ihr Online-Shop für alles, was Sie für Ihre Werkstatt benötigen. Unser Sortiment umfasst alles von Arbeitskleidung und Arbeitssicherheit über Augenschutz und Werkzeugkoffer bis hin zu Werkstatteinrichtung, Werkzeugschränken, Aufbewahrung und Haken sowie Werkbänken und Knieschutz. Mit unserer umfassenden Auswahl an Produkten sorgen wir dafür, dass Sie sicher und komfortabel arbeiten können. Wir legen großen Wert auf Qualität und bieten Ihnen nur hochwertige Produkte zu günstigen Preisen an. Schauen Sie sich um und entdecken Sie das passende Equipment für Ihre Werkstatt."
-          },
-          {
-            "title": "Arbeitskleidung & Arbeitssicherheit",
-            "text": "Wer in der Werkstatt arbeitet, möchte nicht nur effektiv arbeiten, sondern auch sicher. Daher ist es wichtig, dass man sich mit der richtigen Arbeitskleidung und Arbeitssicherheit ausstattet. Im Online-Shop von Werkstatt-Artikel finden Sie eine große Auswahl an Arbeitshosen, Arbeitsjacken, Schutzbrillen und weiteren Produkten, die Ihnen bei der Arbeit in der Werkstatt von Nutzen sein werden."
-          },
-          {
-            "title": "Augenschutz",
-            "text": "<a href=\"/kategorie/augenschutz/\" title=\"Augenschutz\">Augenschutz</a> ist in der Werkstatt von besonderer Bedeutung. Splitter, Funken und Staub können bei bestimmten Tätigkeiten schnell zu Augenschäden führen. Daher ist es wichtig, dass Sie bei der Arbeit in der Werkstatt auf den richtigen Augenschutz achten. Im Online-Shop von Werkstatt-Artikel finden Sie eine große Auswahl an Schutzbrillen, die Ihre Augen vor Gefahren schützen."
-          },
-          {
-            "title": "Werkzeugkoffer",
-            "text": "Ein <a href=\"/kategorie/werkzeugkoffer/\" title=\"Werkzeugkoffer\">Werkzeugkoffer</a> ist ein unverzichtbares Utensil in der Werkstatt. Hier können Sie Ihre Werkzeuge sicher und ordentlich verstauen und immer griffbereit haben. Im Online-Shop von Werkstatt-Artikel finden Sie eine große Auswahl an Werkzeugkoffern in verschiedenen Größen und Ausführungen. Ob für den mobilen Einsatz oder für die Aufbewahrung in der Werkstatt – bei uns finden Sie den perfekten Werkzeugkoffer für Ihre Bedürfnisse."
-          },
-          {
-            "title": "Werkstatteinrichtung",
-            "text": "Bei Werkstatt-Artikel finden Sie alles, was Sie für eine perfekte <a href=\"/kategorie/werkstatteinrichtung/\" title=\"Werkstatteinrichtung\">Werkstatteinrichtung</a> benötigen. Von praktischen Werkzeugschränken bis hin zu bequemer Arbeitskleidung und Zubehör. Unsere Produkte zeichnen sich durch hohe Qualität und Zuverlässigkeit aus, damit Sie jederzeit sicher und effizient arbeiten können. Stöbern Sie jetzt in unserem Sortiment und entdecken Sie die besten Lösungen für Ihre Werkstatt."
-          },
-          {
-            "title": "Werkzeugschränke",
-            "text": "Ein gut organisiertes Werkzeug ist die Grundlage für eine effiziente Arbeit in der Werkstatt. Bei Werkstatt-Artikel finden Sie eine große Auswahl an <a href=\"/kategorie/werkzeugschraenke/\" title=\"Werkzeugschränke\">Werkzeugschränke</a>n in verschiedenen Größen und Ausführungen. Von robusten Metall-Schränken bis hin zu platzsparenden Wand-Schränken - wir haben für jeden Bedarf das passende Angebot. Stöbern Sie jetzt in unserem Sortiment und finden Sie den perfekten Werkzeugschrank für Ihre Werkstatt."
-          },
-          {
-            "title": "Arbeitskleidung & Zubehör",
-            "text": "In der Werkstatt ist es wichtig, dass Sie sich sicher und bequem bewegen können. Bei Werkstatt-Artikel finden Sie eine große Auswahl an Arbeitskleidung und Zubehör, die genau auf die Anforderungen in der Werkstatt abgestimmt sind. Ob robuste Arbeitshosen, praktische Werkzeugtaschen oder bequeme Arbeitsjacken - wir bieten Ihnen alles, was Sie für eine angenehme Arbeit benötigen. Stöbern Sie jetzt in unserem Sortiment und entdecken Sie die besten Lösungen für Ihre Werkstatt."
-          },
-          {
-            "title": "Aufbewahrung & Haken",
-            "text": "In unserer Kategorie '<a href=\"/kategorie/aufbewahrung-haken/\" title=\"Aufbewahrung & Haken\">Aufbewahrung & Haken</a>' finden Sie eine große Auswahl an Lösungen für die optimale Organisation Ihrer Werkstatt. Von praktischen Haken zur Befestigung von Werkzeugen bis hin zu aufgeräumten Aufbewahrungssystemen, bieten wir Ihnen alles, was Sie für eine übersichtliche und effiziente Arbeitsumgebung benötigen. Stöbern Sie jetzt durch unser Angebot und entdecken Sie die passende Lösung für Ihre Bedürfnisse."
-          },
-          {
-            "title": "Aufbewahrungssysteme",
-            "text": "Eine ordentliche und übersichtliche Werkstatt ist die Grundlage für effiziente Arbeit. Mit den <a href=\"/kategorie/aufbewahrungssysteme/\" title=\"Aufbewahrungssysteme\">Aufbewahrungssysteme</a>n aus unserem Sortiment haben Sie alles im Griff. Ob Schubladen, Regale oder Wandaufbewahrung, wir bieten Ihnen eine Vielzahl an Möglichkeiten zur optimalen Organisation Ihrer Werkstatt. Entdecken Sie jetzt unser Angebot und finden Sie das passende System für Ihre Bedürfnisse."
-          },
-          {
-            "title": "Werkbänke",
-            "text": "Eine robuste und praktische Werkbank ist ein unverzichtbares Möbelstück in jeder Werkstatt. Bei uns finden Sie eine große Auswahl an <a href=\"/kategorie/werkbaenke/\" title=\"Werkbänke\">Werkbänke</a>n in verschiedenen Größen und Ausführungen. Ob mit Schubladen, Ablagefächern oder Haken, wir bieten Ihnen alles, was Sie für eine effiziente Arbeitsumgebung benötigen. Stöbern Sie jetzt durch unser Angebot und entdecken Sie die passende Werkbank für Ihre Bedürfnisse."
-          },
-          {
-            "title": "Knieschutz in der Werkstatt",
-            "text": "Sicherheit sollte in jeder Werkstatt an erster Stelle stehen. Deshalb bieten wir Ihnen eine große Auswahl an hochwertigen Knieschutzprodukten an. Ob Sie einfache Schoner oder Gel-Knieschoner benötigen, wir haben das passende Produkt für Sie. Schützen Sie Ihre Knie vor Verletzungen und Stößen bei jedem Projekt. Stöbern Sie jetzt durch unser Sortiment und finden Sie den perfekten Knieschutz für Ihre Werkstatt."
-          },
-          {
-            "title": "Arbeitsschuhe & Zubehör",
-            "text": "In der Werkstatt ist es wichtig, dass Sie bequeme und sichere Schuhe tragen. Wir bieten Ihnen eine große Auswahl an Arbeitsschuhen, die speziell für den Einsatz in Werkstätten entwickelt wurden. Ob Sie robuste Stahlkappenschuhe oder leichte Sicherheitssportschuhe benötigen, wir haben das passende Modell für Sie. Stöbern Sie jetzt durch unser Sortiment und finden Sie die perfekten Arbeitsschuhe für Ihre Werkstatt."
-          },
-          {
-            "title": "Arbeitsböcke für Ihre Werkstatt",
-            "text": "Ein Arbeitsbock ist ein unverzichtbares Werkzeug in jeder Werkstatt. Wir bieten Ihnen eine große Auswahl an stabilen und robusten Arbeitsböcken, die für eine Vielzahl von Anwendungen geeignet sind. Ob Sie einen einfachen Holzblock oder einen hochmodernen Arbeitsbock mit verstellbaren Beinen benötigen, wir haben das passende Produkt für Sie. Stöbern Sie jetzt durch unser Sortiment und finden Sie den perfekten Arbeitsbock für Ihre Werkstatt."
-          },
-          {
-            "title": "Lochwandsysteme",
-            "text": "Entdecken Sie unser Sortiment an <a href=\"/kategorie/lochwandsysteme/\" title=\"Lochwandsysteme\">Lochwandsysteme</a>n für Ihre Werkstatt. Unsere Lochwandsysteme bieten eine einfache und effiziente Art, Ihr Werkzeug und Ihre Ausrüstung zu organisieren und zu verstauen. Dank unserer hochwertigen Materialien und robusten Konstruktion können Sie sich auf die Langlebigkeit und Haltbarkeit unserer Produkte verlassen. Stöbern Sie jetzt durch unser Angebot und finden Sie das perfekte Lochwandsystem für Ihre Werkstattbedürfnisse."
-          },
-          {
-            "title": "Gehörschutz",
-            "text": "Schützen Sie Ihre Ohren vor Lärm und Geräuschen in der Werkstatt mit unserer Auswahl an <a href=\"/kategorie/gehoerschutz/\" title=\"Gehörschutz\">Gehörschutz</a>. Unsere Gehörschutzprodukte sind bequem und einfach zu tragen und bieten einen effektiven Schutz für Ihre Ohren. Wählen Sie aus verschiedenen Stilen und Größen, um den perfekten Gehörschutz für Ihre Bedürfnisse zu finden. Stöbern Sie jetzt durch unser Angebot und schützen Sie Ihre Ohren bei der Arbeit in der Werkstatt."
-          },
-          {
-            "title": "Werkstattwagen",
-            "text": "Erleichtern Sie sich die Arbeit in Ihrer Werkstatt mit unseren praktischen <a href=\"/kategorie/werkstattwagen/\" title=\"Werkstattwagen\">Werkstattwagen</a>. Unsere Werkstattwagen bieten eine einfache Möglichkeit, Ihr Werkzeug und Ihre Ausrüstung zu transportieren und zu organisieren. Dank unserer robusten Konstruktion und hochwertigen Materialien können Sie sich auf die Langlebigkeit und Haltbarkeit unserer Produkte verlassen. Stöbern Sie jetzt durch unser Angebot und finden Sie den perfekten Werkstattwagen für Ihre Bedürfnisse."
-          },
-          {
-            "title": "Arbeitshandschuhe - Schützen Sie Ihre Hände",
-            "text": "Unsere Kategorie 'Arbeitshandschuhe' bietet Ihnen eine Vielzahl an Handschuhmodellen für den Einsatz in der Werkstatt. Von robusten Lederhandschuhen bis hin zu strapazierfähigen Nitrilhandschuhen, hier finden Sie garantiert den passenden Schutz für Ihre Hände. Alle Handschuhe sind ergonomisch geformt und bieten einen hohen Tragekomfort. Schützen Sie Ihre Hände bei der Arbeit und bestellen Sie jetzt bei Werkstatt-Artikel.de."
-          }
-        ]
-      }
-    },
-    "shop": {
-      "title": "Der Werkstatt - Shop ",
-      "metaDescription": "Bestellen Sie Arbeitsschutzkleidung und Organisationssysteme in verschiedenen Ausführungen für die Werkstatt einfach online! | Riesige Auswahl | Günstige Preise",
-      "robots": "index, follow"
-    },
-    "hersteller": {
-      "title": "Werkstatt - tolle Produkte von Top Herstellern",
-      "metaDescription": "Bei uns finden Sie eine Auflistung von Herstellern all unserer angebotenen Produkte. | Darunter Marken wie Makita, Bosch Professional, Black & Decker und mehr.",
-      "robots": "index, follow"
-    }
-  },
-  "productSeo": {
-    "defaultTitle": "$PRODUKT günstig bestellen",
-    "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die richtige Wahl beim Thema $KATEGORIE. | Finden Sie weitere tolle Produkte von Herstellern wie $HERSTELLER.",
-    "defaultRobots": "index, follow",
-    "products": [
-      {
-        "sku": "5637909794",
-        "name": "Ortovox PALA PANTS Kletterhose",
-        "seo": {
-          "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-          "robots": "index, follow"
-        }
-      },
-      {
-        "sku": "5907860",
-        "seo": {
-          "texts": [
-            {
-              "title": "Küpper Hängeschrank 3-türig 18 Boxen 1200 mm breit",
-              "text": "<p class=\"justify\">Der Küpper Hängeschrank 3-türig 18 Boxen 1200 mm breit (SKU 5907860) ist die perfekte Lösung für all Ihre Werkstattorganisation Bedürfnisse. Dieser hochwertige Werkzeugschrank von Küpper ist sowohl für den professionellen Handwerker als auch für den Heimwerker ideal und bietet viel Platz für Ihr Werkzeug. Optimieren Sie Ihre Arbeitsumgebung und steigern Sie Ihre Effizienz mit diesem Hängeschrank aus der Kategorie Werkzeugschränke.</p><p class=\"justify\">Ausgestattet mit 3 Türen, 2 Lochrückwänden, 2 Einlegeböden und 18 Sichtboxen bietet dieser Hängeschrank viel Stauraum für Ihre Werkzeuge und Zubehör. Mit den Maßen von 1200 mm x 600 mm x 190 mm und einem Gewicht von 19 kg ist dieser Schrank leicht, dennoch robust und langlebig. Die Sichtboxen ermöglichen eine einfache Identifizierung und Zugriff auf Ihr Werkzeug, während die Lochrückwände und Einlegeböden zusätzliche Möglichkeiten zur Organisation bieten.</p><p class=\"justify\">Hergestellt von der bekannten Marke Küpper, die für ihre Qualität und Langlebigkeit bekannt ist, können Sie sicher sein, dass dieser 3-türige Hängeschrank Ihren hohen Anforderungen gerecht wird. Mit einer Bewertung von 5 Sternen und über 421 Kundenbewertungen ist dieses Produkt sehr zufriedenstellend und wird Ihren Erwartungen entsprechen.</p><p class=\"justify\">Der Küpper Hängeschrank 3-türig 18 Boxen 1200 mm breit ist ein ausgezeichneter, platzsparender Werkzeugschrank, der Ihre Werkstatt sauber und organisiert halten wird. Investieren Sie in diese hochwertige Lagerlösung, um Ihre Effizienz zu steigern und die Lebensdauer Ihrer Werkzeuge zu verlängern.</p>"
+    "configIsReady": true,
+    "domain": "werkstatt-artikel.de",
+    "hostname": "https://www.werkstatt-artikel.de/",
+    "email": "werkstatt-artikel.de@surrealnetworks.io",
+    "organization": "werkstatt-artikel.de",
+    "logoText": "Werkstatt-artikel.de",
+    "title": "Werkstatt Shop",
+    "subline": "Hier finden Sie alles was eine gute Werkstatt ausmacht!",
+    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+    "imageFolder": "/assets/images/images/",
+    "productUrl": "/produkt/",
+    "kategorieUrl": "/kategorie/",
+    "numberOfProductsOnStartpage": 18,
+    "numberMaximumProductsPerCategory": 100,
+    "numberOfRelevantProduct": 12,
+    "popularProducts": [
+        "5818497",
+        "5907860",
+        "4651345",
+        "8959355",
+        "3204211",
+        "5907795"
+    ],
+    "winnerProducts": [
+        "5907860",
+        "5907860",
+        "4279048"
+    ],
+    "featuredCategories": [
+        "Lochwandsysteme",
+        "Werkstatteinrichtung",
+        "Aufbewahrung & Haken",
+        "Werkzeugkoffer",
+        "Lochwandsysteme",
+        "Aufbewahrung & Haken"
+    ],
+    "socialMediaAccounts": [],
+    "imageQuality": 90,
+    "checklist": [
+        "Material",
+        "Komfort",
+        "Funktion",
+        "Haltbarkeit"
+    ],
+    "seo": {
+        "htmlLang": "de",
+        "mainKeyword": "Werkstatt",
+        "featureText": "Willkommen in unserem Shop! Sie möchten sich Ihre eigene Werkstatt einrichten oder auch nur einen umfangreichen Werkzeugkoffer zusammenstellen? Dann sind Sie hier genau richtig! Wir bieten Ihnen ein breites Angebot an Werkstatt-Artikeln. Diese reichen von Arbeitsschutzkleidung über Werkzeugkoffer, Werkzeugschränke, Werkbänke bis hin zu Aufbewahrungssysteme und Lochwandsysteme. Unsere angebotenen Produkte sind von Marken wie Black & Decker, Bosch Professional, Makita und Co. \nWir arbeiten stets daran, Ihnen Tiefstpreise anzubieten, die anderswo kaum zu unterbieten sind.  Überzeugen Sie sich von unserem Angebot.\n",
+        "index": {
+            "title": "Werkstatt Laden - Alles was du benötigst",
+            "metaDescription": "Sie möchten ein Upgrade für die eigene Werkstatt? Projekte in Zukunft effizienter gestalten | Werkzeugkoffer, Werkzeugschrank oder Werkzeugbank, wir haben es.",
+            "robots": "index, follow",
+            "seotext": {
+                "published": true,
+                "content": [
+                    {
+                        "title": "Willkommen bei Werkstatt-Artikel.de",
+                        "text": "Werkstatt-Artikel.de ist Ihr Online-Shop für alles, was Sie für Ihre Werkstatt benötigen. Unser Sortiment umfasst alles von Arbeitskleidung und Arbeitssicherheit über Augenschutz und Werkzeugkoffer bis hin zu Werkstatteinrichtung, Werkzeugschränken, Aufbewahrung und Haken sowie Werkbänken und Knieschutz. Mit unserer umfassenden Auswahl an Produkten sorgen wir dafür, dass Sie sicher und komfortabel arbeiten können. Wir legen großen Wert auf Qualität und bieten Ihnen nur hochwertige Produkte zu günstigen Preisen an. Schauen Sie sich um und entdecken Sie das passende Equipment für Ihre Werkstatt."
+                    },
+                    {
+                        "title": "Arbeitskleidung & Arbeitssicherheit",
+                        "text": "Wer in der Werkstatt arbeitet, möchte nicht nur effektiv arbeiten, sondern auch sicher. Daher ist es wichtig, dass man sich mit der richtigen Arbeitskleidung und Arbeitssicherheit ausstattet. Im Online-Shop von Werkstatt-Artikel finden Sie eine große Auswahl an Arbeitshosen, Arbeitsjacken, Schutzbrillen und weiteren Produkten, die Ihnen bei der Arbeit in der Werkstatt von Nutzen sein werden."
+                    },
+                    {
+                        "title": "Augenschutz",
+                        "text": "<a href=\"/kategorie/augenschutz/\" title=\"Augenschutz\">Augenschutz</a> ist in der Werkstatt von besonderer Bedeutung. Splitter, Funken und Staub können bei bestimmten Tätigkeiten schnell zu Augenschäden führen. Daher ist es wichtig, dass Sie bei der Arbeit in der Werkstatt auf den richtigen Augenschutz achten. Im Online-Shop von Werkstatt-Artikel finden Sie eine große Auswahl an Schutzbrillen, die Ihre Augen vor Gefahren schützen."
+                    },
+                    {
+                        "title": "Werkzeugkoffer",
+                        "text": "Ein <a href=\"/kategorie/werkzeugkoffer/\" title=\"Werkzeugkoffer\">Werkzeugkoffer</a> ist ein unverzichtbares Utensil in der Werkstatt. Hier können Sie Ihre Werkzeuge sicher und ordentlich verstauen und immer griffbereit haben. Im Online-Shop von Werkstatt-Artikel finden Sie eine große Auswahl an Werkzeugkoffern in verschiedenen Größen und Ausführungen. Ob für den mobilen Einsatz oder für die Aufbewahrung in der Werkstatt – bei uns finden Sie den perfekten Werkzeugkoffer für Ihre Bedürfnisse."
+                    },
+                    {
+                        "title": "Werkstatteinrichtung",
+                        "text": "Bei Werkstatt-Artikel finden Sie alles, was Sie für eine perfekte <a href=\"/kategorie/werkstatteinrichtung/\" title=\"Werkstatteinrichtung\">Werkstatteinrichtung</a> benötigen. Von praktischen Werkzeugschränken bis hin zu bequemer Arbeitskleidung und Zubehör. Unsere Produkte zeichnen sich durch hohe Qualität und Zuverlässigkeit aus, damit Sie jederzeit sicher und effizient arbeiten können. Stöbern Sie jetzt in unserem Sortiment und entdecken Sie die besten Lösungen für Ihre Werkstatt."
+                    },
+                    {
+                        "title": "Werkzeugschränke",
+                        "text": "Ein gut organisiertes Werkzeug ist die Grundlage für eine effiziente Arbeit in der Werkstatt. Bei Werkstatt-Artikel finden Sie eine große Auswahl an <a href=\"/kategorie/werkzeugschraenke/\" title=\"Werkzeugschränke\">Werkzeugschränke</a>n in verschiedenen Größen und Ausführungen. Von robusten Metall-Schränken bis hin zu platzsparenden Wand-Schränken - wir haben für jeden Bedarf das passende Angebot. Stöbern Sie jetzt in unserem Sortiment und finden Sie den perfekten Werkzeugschrank für Ihre Werkstatt."
+                    },
+                    {
+                        "title": "Arbeitskleidung & Zubehör",
+                        "text": "In der Werkstatt ist es wichtig, dass Sie sich sicher und bequem bewegen können. Bei Werkstatt-Artikel finden Sie eine große Auswahl an Arbeitskleidung und Zubehör, die genau auf die Anforderungen in der Werkstatt abgestimmt sind. Ob robuste Arbeitshosen, praktische Werkzeugtaschen oder bequeme Arbeitsjacken - wir bieten Ihnen alles, was Sie für eine angenehme Arbeit benötigen. Stöbern Sie jetzt in unserem Sortiment und entdecken Sie die besten Lösungen für Ihre Werkstatt."
+                    },
+                    {
+                        "title": "Aufbewahrung & Haken",
+                        "text": "In unserer Kategorie '<a href=\"/kategorie/aufbewahrung-haken/\" title=\"Aufbewahrung & Haken\">Aufbewahrung & Haken</a>' finden Sie eine große Auswahl an Lösungen für die optimale Organisation Ihrer Werkstatt. Von praktischen Haken zur Befestigung von Werkzeugen bis hin zu aufgeräumten Aufbewahrungssystemen, bieten wir Ihnen alles, was Sie für eine übersichtliche und effiziente Arbeitsumgebung benötigen. Stöbern Sie jetzt durch unser Angebot und entdecken Sie die passende Lösung für Ihre Bedürfnisse."
+                    },
+                    {
+                        "title": "Aufbewahrungssysteme",
+                        "text": "Eine ordentliche und übersichtliche Werkstatt ist die Grundlage für effiziente Arbeit. Mit den <a href=\"/kategorie/aufbewahrungssysteme/\" title=\"Aufbewahrungssysteme\">Aufbewahrungssysteme</a>n aus unserem Sortiment haben Sie alles im Griff. Ob Schubladen, Regale oder Wandaufbewahrung, wir bieten Ihnen eine Vielzahl an Möglichkeiten zur optimalen Organisation Ihrer Werkstatt. Entdecken Sie jetzt unser Angebot und finden Sie das passende System für Ihre Bedürfnisse."
+                    },
+                    {
+                        "title": "Werkbänke",
+                        "text": "Eine robuste und praktische Werkbank ist ein unverzichtbares Möbelstück in jeder Werkstatt. Bei uns finden Sie eine große Auswahl an <a href=\"/kategorie/werkbaenke/\" title=\"Werkbänke\">Werkbänke</a>n in verschiedenen Größen und Ausführungen. Ob mit Schubladen, Ablagefächern oder Haken, wir bieten Ihnen alles, was Sie für eine effiziente Arbeitsumgebung benötigen. Stöbern Sie jetzt durch unser Angebot und entdecken Sie die passende Werkbank für Ihre Bedürfnisse."
+                    },
+                    {
+                        "title": "Knieschutz in der Werkstatt",
+                        "text": "Sicherheit sollte in jeder Werkstatt an erster Stelle stehen. Deshalb bieten wir Ihnen eine große Auswahl an hochwertigen Knieschutzprodukten an. Ob Sie einfache Schoner oder Gel-Knieschoner benötigen, wir haben das passende Produkt für Sie. Schützen Sie Ihre Knie vor Verletzungen und Stößen bei jedem Projekt. Stöbern Sie jetzt durch unser Sortiment und finden Sie den perfekten Knieschutz für Ihre Werkstatt."
+                    },
+                    {
+                        "title": "Arbeitsschuhe & Zubehör",
+                        "text": "In der Werkstatt ist es wichtig, dass Sie bequeme und sichere Schuhe tragen. Wir bieten Ihnen eine große Auswahl an Arbeitsschuhen, die speziell für den Einsatz in Werkstätten entwickelt wurden. Ob Sie robuste Stahlkappenschuhe oder leichte Sicherheitssportschuhe benötigen, wir haben das passende Modell für Sie. Stöbern Sie jetzt durch unser Sortiment und finden Sie die perfekten Arbeitsschuhe für Ihre Werkstatt."
+                    },
+                    {
+                        "title": "Arbeitsböcke für Ihre Werkstatt",
+                        "text": "Ein Arbeitsbock ist ein unverzichtbares Werkzeug in jeder Werkstatt. Wir bieten Ihnen eine große Auswahl an stabilen und robusten Arbeitsböcken, die für eine Vielzahl von Anwendungen geeignet sind. Ob Sie einen einfachen Holzblock oder einen hochmodernen Arbeitsbock mit verstellbaren Beinen benötigen, wir haben das passende Produkt für Sie. Stöbern Sie jetzt durch unser Sortiment und finden Sie den perfekten Arbeitsbock für Ihre Werkstatt."
+                    },
+                    {
+                        "title": "Lochwandsysteme",
+                        "text": "Entdecken Sie unser Sortiment an <a href=\"/kategorie/lochwandsysteme/\" title=\"Lochwandsysteme\">Lochwandsysteme</a>n für Ihre Werkstatt. Unsere Lochwandsysteme bieten eine einfache und effiziente Art, Ihr Werkzeug und Ihre Ausrüstung zu organisieren und zu verstauen. Dank unserer hochwertigen Materialien und robusten Konstruktion können Sie sich auf die Langlebigkeit und Haltbarkeit unserer Produkte verlassen. Stöbern Sie jetzt durch unser Angebot und finden Sie das perfekte Lochwandsystem für Ihre Werkstattbedürfnisse."
+                    },
+                    {
+                        "title": "Gehörschutz",
+                        "text": "Schützen Sie Ihre Ohren vor Lärm und Geräuschen in der Werkstatt mit unserer Auswahl an <a href=\"/kategorie/gehoerschutz/\" title=\"Gehörschutz\">Gehörschutz</a>. Unsere Gehörschutzprodukte sind bequem und einfach zu tragen und bieten einen effektiven Schutz für Ihre Ohren. Wählen Sie aus verschiedenen Stilen und Größen, um den perfekten Gehörschutz für Ihre Bedürfnisse zu finden. Stöbern Sie jetzt durch unser Angebot und schützen Sie Ihre Ohren bei der Arbeit in der Werkstatt."
+                    },
+                    {
+                        "title": "Werkstattwagen",
+                        "text": "Erleichtern Sie sich die Arbeit in Ihrer Werkstatt mit unseren praktischen <a href=\"/kategorie/werkstattwagen/\" title=\"Werkstattwagen\">Werkstattwagen</a>. Unsere Werkstattwagen bieten eine einfache Möglichkeit, Ihr Werkzeug und Ihre Ausrüstung zu transportieren und zu organisieren. Dank unserer robusten Konstruktion und hochwertigen Materialien können Sie sich auf die Langlebigkeit und Haltbarkeit unserer Produkte verlassen. Stöbern Sie jetzt durch unser Angebot und finden Sie den perfekten Werkstattwagen für Ihre Bedürfnisse."
+                    },
+                    {
+                        "title": "Arbeitshandschuhe - Schützen Sie Ihre Hände",
+                        "text": "Unsere Kategorie 'Arbeitshandschuhe' bietet Ihnen eine Vielzahl an Handschuhmodellen für den Einsatz in der Werkstatt. Von robusten Lederhandschuhen bis hin zu strapazierfähigen Nitrilhandschuhen, hier finden Sie garantiert den passenden Schutz für Ihre Hände. Alle Handschuhe sind ergonomisch geformt und bieten einen hohen Tragekomfort. Schützen Sie Ihre Hände bei der Arbeit und bestellen Sie jetzt bei Werkstatt-Artikel.de."
+                    }
+                ]
             }
-          ]
+        },
+        "shop": {
+            "title": "Der Werkstatt - Shop ",
+            "metaDescription": "Bestellen Sie Arbeitsschutzkleidung und Organisationssysteme in verschiedenen Ausführungen für die Werkstatt einfach online! | Riesige Auswahl | Günstige Preise",
+            "robots": "index, follow"
+        },
+        "hersteller": {
+            "title": "Werkstatt - tolle Produkte von Top Herstellern",
+            "metaDescription": "Bei uns finden Sie eine Auflistung von Herstellern all unserer angebotenen Produkte. | Darunter Marken wie Makita, Bosch Professional, Black & Decker und mehr.",
+            "robots": "index, follow"
         }
-      },
-      {
-        "sku": "4279048",
-        "seo": {
-          "texts": [
+    },
+    "productSeo": {
+        "defaultTitle": "$PRODUKT günstig bestellen",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die richtige Wahl beim Thema $KATEGORIE. | Finden Sie weitere tolle Produkte von Herstellern wie $HERSTELLER.",
+        "defaultRobots": "index, follow",
+        "products": [
             {
-              "title": "Arbeitsbock Nadelholz unbehandelt 75 cm x 75 cm von Sonstige",
-              "text": "<p class=\"justify\">Der Arbeitsbock Nadelholz unbehandelt 75 cm x 75 cm von der Marke Sonstige ist ein praktisches und vielseitiges Hilfsmittel für Handwerker und Heimwerker. Mit seiner stabilen Konstruktion aus unbehandeltem Nadelholz eignet sich dieser Arbeitsbock hervorragend für den Einsatz auf Baustellen und in Werkstätten. Das Nadelholz verleiht dem Arbeitsbock eine robuste Qualität und Langlebigkeit, die bei der täglichen Arbeit unerlässlich ist.</p><p class=\"justify\">Mit den Maßen 75 cm x 75 cm bietet dieser Arbeitsbock eine optimale Arbeitsfläche für verschiedene Tätigkeiten, wie beispielsweise Sägen, Hobeln oder Schleifen. Zudem ist der Arbeitsbock klappbar, wodurch er sich leicht transportieren und platzsparend lagern lässt. Dank seines verwendeten Materials ist er außerdem recht leicht, was den Transport und das Aufstellen noch einfacher gestaltet.</p><p class=\"justify\">Mit 5 Sternen und 240 Bewertungen spricht die hohe Kundenzufriedenheit für die Qualität und Funktionalität des Arbeitsbock Nadelholz unbehandelt 75 cm x 75 cm von Sonstige. Ein weiteres Plus ist der attraktive Preis von nur 7,99 €, der für diese Art von Werkstatteinrichtung äußerst konkurrenzfähig ist. In der Kategorie Arbeitsböcke ist dieses Modell definitiv eine überlegenswerte Option für all jene, die einen verlässlichen und praktischen Arbeitsbock für ihre Werkstatt suchen.</p><p class=\"justify\">Zusammenfassend bietet der Arbeitsbock Nadelholz unbehandelt 75 cm x 75 cm von Sonstige eine ausgezeichnete Lösung für alle, die ein preisgünstiges und funktionales Arbeitsgerät für ihre Projekte benötigen. Die hohe Qualität und das benutzerfreundliche Design machen diesen Arbeitsbock zu einer idealen Wahl für Handwerker und Heimwerker gleichermaßen.</p>"
-            }
-          ]
-        }
-      }
-    ]
-  },
-  "categorySeo": {
-    "defaultTitle": "$KATEGORIE - riesige Auswahl",
-    "defaultMetaDescription": "$KATEGORIE für die Werkstatt - Viele tolle Produkte zu günstigen Preisen | Bestellen Sie jetzt einfach und bequem von Zuhause! ",
-    "defaultRobots": "index, follow",
-    "categories": [
-      {
-        "key": "sporthosen",
-        "slug": "sporthosen",
-        "name": "Sporthosen",
-        "seo": {
-          "title": "Sporthosen günstig kaufen",
-          "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-          "robots": "index, follow",
-          "texts": [
-            {
-              "title": "Title of a SEO Text for sporthosen",
-              "text": "Text of a SEO Text for sporthosen"
+                "sku": "5637909794",
+                "name": "Ortovox PALA PANTS Kletterhose",
+                "seo": {
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "robots": "index, follow"
+                }
             },
             {
-              "title": "New title for sporthosen",
-              "text": "new text for sporthosen"
+                "sku": "5907860",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Küpper Hängeschrank 3-türig 18 Boxen 1200 mm breit",
+                            "text": "<p class=\"justify\">Der Küpper Hängeschrank 3-türig 18 Boxen 1200 mm breit (SKU 5907860) ist die perfekte Lösung für all Ihre Werkstattorganisation Bedürfnisse. Dieser hochwertige Werkzeugschrank von Küpper ist sowohl für den professionellen Handwerker als auch für den Heimwerker ideal und bietet viel Platz für Ihr Werkzeug. Optimieren Sie Ihre Arbeitsumgebung und steigern Sie Ihre Effizienz mit diesem Hängeschrank aus der Kategorie Werkzeugschränke.</p><p class=\"justify\">Ausgestattet mit 3 Türen, 2 Lochrückwänden, 2 Einlegeböden und 18 Sichtboxen bietet dieser Hängeschrank viel Stauraum für Ihre Werkzeuge und Zubehör. Mit den Maßen von 1200 mm x 600 mm x 190 mm und einem Gewicht von 19 kg ist dieser Schrank leicht, dennoch robust und langlebig. Die Sichtboxen ermöglichen eine einfache Identifizierung und Zugriff auf Ihr Werkzeug, während die Lochrückwände und Einlegeböden zusätzliche Möglichkeiten zur Organisation bieten.</p><p class=\"justify\">Hergestellt von der bekannten Marke Küpper, die für ihre Qualität und Langlebigkeit bekannt ist, können Sie sicher sein, dass dieser 3-türige Hängeschrank Ihren hohen Anforderungen gerecht wird. Mit einer Bewertung von 5 Sternen und über 421 Kundenbewertungen ist dieses Produkt sehr zufriedenstellend und wird Ihren Erwartungen entsprechen.</p><p class=\"justify\">Der Küpper Hängeschrank 3-türig 18 Boxen 1200 mm breit ist ein ausgezeichneter, platzsparender Werkzeugschrank, der Ihre Werkstatt sauber und organisiert halten wird. Investieren Sie in diese hochwertige Lagerlösung, um Ihre Effizienz zu steigern und die Lebensdauer Ihrer Werkzeuge zu verlängern.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "4279048",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Arbeitsbock Nadelholz unbehandelt 75 cm x 75 cm von Sonstige",
+                            "text": "<p class=\"justify\">Der Arbeitsbock Nadelholz unbehandelt 75 cm x 75 cm von der Marke Sonstige ist ein praktisches und vielseitiges Hilfsmittel für Handwerker und Heimwerker. Mit seiner stabilen Konstruktion aus unbehandeltem Nadelholz eignet sich dieser Arbeitsbock hervorragend für den Einsatz auf Baustellen und in Werkstätten. Das Nadelholz verleiht dem Arbeitsbock eine robuste Qualität und Langlebigkeit, die bei der täglichen Arbeit unerlässlich ist.</p><p class=\"justify\">Mit den Maßen 75 cm x 75 cm bietet dieser Arbeitsbock eine optimale Arbeitsfläche für verschiedene Tätigkeiten, wie beispielsweise Sägen, Hobeln oder Schleifen. Zudem ist der Arbeitsbock klappbar, wodurch er sich leicht transportieren und platzsparend lagern lässt. Dank seines verwendeten Materials ist er außerdem recht leicht, was den Transport und das Aufstellen noch einfacher gestaltet.</p><p class=\"justify\">Mit 5 Sternen und 240 Bewertungen spricht die hohe Kundenzufriedenheit für die Qualität und Funktionalität des Arbeitsbock Nadelholz unbehandelt 75 cm x 75 cm von Sonstige. Ein weiteres Plus ist der attraktive Preis von nur 7,99 €, der für diese Art von Werkstatteinrichtung äußerst konkurrenzfähig ist. In der Kategorie Arbeitsböcke ist dieses Modell definitiv eine überlegenswerte Option für all jene, die einen verlässlichen und praktischen Arbeitsbock für ihre Werkstatt suchen.</p><p class=\"justify\">Zusammenfassend bietet der Arbeitsbock Nadelholz unbehandelt 75 cm x 75 cm von Sonstige eine ausgezeichnete Lösung für alle, die ein preisgünstiges und funktionales Arbeitsgerät für ihre Projekte benötigen. Die hohe Qualität und das benutzerfreundliche Design machen diesen Arbeitsbock zu einer idealen Wahl für Handwerker und Heimwerker gleichermaßen.</p>"
+                        }
+                    ]
+                }
             }
-          ]
+        ]
+    },
+    "categorySeo": {
+        "defaultTitle": "$KATEGORIE - riesige Auswahl",
+        "defaultMetaDescription": "$KATEGORIE für die Werkstatt - Viele tolle Produkte zu günstigen Preisen | Bestellen Sie jetzt einfach und bequem von Zuhause! ",
+        "defaultRobots": "index, follow",
+        "categories": [
+            {
+                "key": "sporthosen",
+                "slug": "sporthosen",
+                "name": "Sporthosen",
+                "seo": {
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "robots": "index, follow",
+                    "texts": [
+                        {
+                            "title": "Title of a SEO Text for sporthosen",
+                            "text": "Text of a SEO Text for sporthosen"
+                        },
+                        {
+                            "title": "New title for sporthosen",
+                            "text": "new text for sporthosen"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "brandSeo": {
+        "defaultTitle": "$HERSTELLER - Qualität zum Bestpreis",
+        "defaultMetaDescription": "$HERSTELLER ist ein namhafter Hersteller für Werkstatt-Produkte. Produkte von $HERSTELLER sind bekannt für eine qualitativ hochwertige Verarbeitung.  ",
+        "defaultRobots": "index, follow",
+        "brands": [
+            {
+                "key": "palm",
+                "name": "Palm",
+                "seo": {
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
+                    "robots": "index, follow"
+                }
+            }
+        ]
+    },
+    "navigationLinks": [
+        {
+            "title": "Start",
+            "linkTo": "/",
+            "linkTitle": "Werkstatt",
+            "publish": true
+        },
+        {
+            "title": "Shop",
+            "linkTo": "/shop/",
+            "linkTitle": "Werkstatt Shop",
+            "publish": true
+        },
+        {
+            "title": "Marken",
+            "linkTo": "/marken/",
+            "linkTitle": "Werkstatt Marken",
+            "publish": true
+        },
+        {
+            "title": "Kontakt",
+            "linkTo": "/kontakt/",
+            "linkTitle": "Kontakt",
+            "publish": false
         }
-      }
-    ]
-  },
-  "brandSeo": {
-    "defaultTitle": "$HERSTELLER - Qualität zum Bestpreis",
-    "defaultMetaDescription": "$HERSTELLER ist ein namhafter Hersteller für Werkstatt-Produkte. Produkte von $HERSTELLER sind bekannt für eine qualitativ hochwertige Verarbeitung.  ",
-    "defaultRobots": "index, follow",
-    "brands": [
-      {
-        "key": "palm",
-        "name": "Palm",
-        "seo": {
-          "title": "Produkte von Palm günstig kaufen",
-          "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-          "robots": "index, follow"
-        }
-      }
-    ]
-  },
-  "navigationLinks": [
-    {
-      "title": "Start",
-      "linkTo": "/",
-      "linkTitle": "Werkstatt",
-      "publish": true
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
     },
-    {
-      "title": "Shop",
-      "linkTo": "/shop/",
-      "linkTitle": "Werkstatt Shop",
-      "publish": true
+    "affiliate": {
+        "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
     },
-    {
-      "title": "Marken",
-      "linkTo": "/marken/",
-      "linkTitle": "Werkstatt Marken",
-      "publish": true
-    },
-    {
-      "title": "Kontakt",
-      "linkTo": "/kontakt/",
-      "linkTitle": "Kontakt",
-      "publish": false
+    "snipcart": {
+        "apiKeys": {
+            "live": "MWFmYmZjYzEtNzZhNi00NzNjLWJhYTQtMTFmYWUzZDIyYTEzNjM4MTk1NzM0NTM3MDM2Nzgy",
+            "test": "OTQzZmQ1NzAtYTNlNy00NjMxLTkxMjUtZGRiZmQwMjljNjY3NjM4MTk1NzM0NTM3MDM2Nzgy"
+        },
+        "factor": 1.1
     }
-  ],
-  "ai": {
-    "enabled": true,
-    "engine": 1
-  },
-  "affiliate": {
-    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
-  }
 }
